@@ -1,4 +1,6 @@
 This is an additional file containing a list of resources
 
-THis is a highly risky experimental change
+This is an important bug fix
+
+THis is a highly risky experimental change with bugfix
 Added the test folder
