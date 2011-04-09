@@ -1,1 +1,3 @@
 Welcome to git notes
+
+Look at supplement.txt for external references
